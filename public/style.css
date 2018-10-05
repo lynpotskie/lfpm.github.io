@@ -1,0 +1,74 @@
+body {
+
+    background-color: yellowgreen;
+  
+    font-family: Arial;
+  
+    text-align: center;
+  
+    display: flex;
+  
+    align-items: center;
+  
+    justify-content: center;
+  
+    height: 90vh;
+  
+    justify-content: center;
+   
+    color: aquamarine;
+  }
+  
+  
+  
+  h1 {
+  
+    font-size: 72px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+  }
+  
+  
+  
+  p {
+  
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+  
+  }
+  
+  
+  
+  button {
+  
+      color:aquamarine;
+  
+      font-size: 125%;
+  
+      border-radius: 4px;
+  
+      border: none;
+  
+      text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  
+      background:green;
+  
+      padding: 10px;
+  
+      outline: none;
+  
+      cursor: pointer;
+  
+  }
+  
+  
+  
+  button:hover {
+  
+    background:green;
+  
+    padding: 12px;
+  
+  }
+  
